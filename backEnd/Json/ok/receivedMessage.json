@@ -1,0 +1,10 @@
+{
+    "receivedMessage": {
+      "id": "m001",
+      "name": "Alice Dupont",
+      "phone": "+33123456789",
+      "email": "alice.dupont@example.com",
+      "message": "Bonjour, j'aimerais avoir plus d'informations sur vos services."
+    }
+  }
+  

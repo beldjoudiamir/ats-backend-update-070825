@@ -1,0 +1,14 @@
+
+    {
+      "_id_l'entreprise": "id de l'entreprise",
+      "name": "Nom de l'entreprise",
+      "registrationNumber": "Numéro d'enregistrement ou SIRET",
+      "taxID": "Numéro d'identification fiscale",
+      "street": "Adresse de la rue",
+      "city": "Ville",
+      "zipCode": "Code postal",
+      "country": "Pays",
+      "name": "Nom du directeur",
+      "phone": "Numéro de téléphone",
+      "email": "Adresse email"      
+}

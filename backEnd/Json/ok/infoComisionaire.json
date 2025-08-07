@@ -1,0 +1,19 @@
+{
+    "nom_de_entreprise_du_comisionaire": "Nom de l'entreprise",
+    "adresse_d_entreprise_du_comisionaire": {
+      "rue": "123 Rue de l'Exemple",
+      "code_postal": "75001",
+      "ville": "Paris",
+      "pays": "France"
+    },
+    "numero_de_tva": "Numéro de TVA",
+    "numero_de_siren": "Numéro de SIREN",
+    "email": "email@entreprise.com",
+    "telephone": "0123456789",
+    "adresse_de_chargement": {
+      "rue": "123 Rue de l'Exemple",
+      "code_postal": "75001",
+      "ville": "Paris",
+      "pays": "France"
+    }
+  }

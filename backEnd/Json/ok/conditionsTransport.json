@@ -1,0 +1,39 @@
+{
+      
+      "responsabilites": {
+      "transporteur": "Le transporteur est responsable de la marchandise dès le chargement jusqu'au déchargement, sauf en cas de force majeure.",
+      "client": "Le client doit s'assurer que la marchandise est correctement emballée et prête au moment du chargement."
+      },
+      "delais": {
+        "chargement": "Le chargement doit être effectué à la date et heure spécifiées dans l'ordre de transport.",
+        "dechargement": "Le déchargement doit être effectué à la date et heure spécifiées. Tout retard peut entraîner des frais supplémentaires."
+      },
+      "tarification": {
+        "fraisSupplementaires": "Des frais supplémentaires peuvent s'appliquer en cas de surcharge, de conditions de chargement spéciales ou de modification de l'itinéraire.",
+        "penaliteRetard": "Une pénalité de 50 euros par heure peut être appliquée en cas de retard au chargement ou au déchargement imputable au client."
+      },
+      "assurance": {
+        "type": "Une assurance transport est incluse dans la prestation, couvrant jusqu'à 10 000 euros en cas de dommage ou perte.",
+        "exclusions": "Les dommages causés par un emballage inadéquat ou des informations incorrectes fournies par le client ne sont pas couverts."
+      },
+      "annulation": {
+        "delaiAnnulation": "Toute annulation doit être signalée au moins 24 heures avant le chargement prévu.",
+        "fraisAnnulation": "Des frais d'annulation de 20% du prix total seront appliqués si l'annulation est effectuée hors délai."
+      },
+      "paiement": {
+      "modePaiement": "Le paiement peut être effectué par virement bancaire, carte de crédit ou chèque.",
+      "delaiPaiement": "Le paiement doit être effectué dans un délai de 30 jours après réception de la facture.",
+      "penaliteRetard": "En cas de retard de paiement, des pénalités de 10% du montant total seront appliquées par mois de retard.",
+      "acompte": "Un acompte de 30% du montant total peut être exigé avant le début de la prestation.",
+      "coordonneesBancaires": {
+        "nomBanque": "Banque ABC",
+        "iban": "FR76 1234 5678 9012 3456 7890 123",
+        "bic": "ABCDEFGHXXX"
+      },
+      "juridiction": {
+        "litiges": "En cas de litige, le tribunal compétent sera celui du siège social du transporteur."
+      }
+    }
+}
+
+  

@@ -1,0 +1,50 @@
+{
+  "quotation": {
+    "quotationId": "DEV123456",
+    "date": "2025-01-12"
+  },
+  "item": {
+    "description": "Service de transport de marchandises",
+    "quantity": 1,
+    "unitPrice": 500,
+    "currency": "EUR",
+    "totalPrice": 500
+  },
+  "subtotal": 500,
+  "tax": {
+    "rate": 20,
+    "amount": 100,
+    "currency": "EUR"
+  },
+  "total": 600,
+  "currency": "EUR",
+  "paymentTerms": "Paiement à effectuer dans les 30 jours suivant la réception du devis.",
+  "notes": "Merci de confirmer ce devis avant le 2025-01-20.",
+  "status": "En attente",
+  "statuses": {
+    "DRAFT": {
+      "label": "Brouillon",
+      "description": "Le devis est en cours de création et n'est pas encore finalisé."
+    },
+    "SENT": {
+      "label": "Envoyé",
+      "description": "Le devis a été envoyé au client pour validation."
+    },
+    "ACCEPTED": {
+      "label": "Accepté",
+      "description": "Le devis a été accepté par le client."
+    },
+    "DECLINED": {
+      "label": "Refusé",
+      "description": "Le devis a été refusé par le client."
+    },
+    "EXPIRED": {
+      "label": "Expiré",
+      "description": "Le devis a expiré et n'est plus valide."
+    },
+    "CANCELLED": {
+      "label": "Annulé",
+      "description": "Le devis a été annulé par le client ou par l'entreprise."
+    }
+  }
+}

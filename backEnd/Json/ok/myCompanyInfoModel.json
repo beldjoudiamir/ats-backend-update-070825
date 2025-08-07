@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "logo": "https://www.example.com/logo.png",
+      "name": "TransRapid Logistics",
+      "description": "TransRapid Logistics est une entreprise spécialisée dans le transport de marchandises, la logistique, et les solutions de chaîne d'approvisionnement.",
+      "industry": "Transport et logistique",
+      "address": "45 Avenue des Transports",
+      "city": "Lyon",
+      "postal_code": "69001",
+      "country": "France",
+      "director_name": "Paul Martin",
+      "director_role": "Directeur général",
+      "director_experience_years": 20,
+      "director_description": "Expert en gestion logistique et en développement stratégique pour les entreprises de transport.",
+      "email": "contact@transrapidlogistics.com",
+      "phone": "+33 4 56 78 90 12",
+      "website": "https://transrapidlogistics.com",
+      "linkedin": "https://www.linkedin.com/company/transrapid-logistics",
+      "twitter": "https://twitter.com/transrapid"
+    }
+  ]
+  

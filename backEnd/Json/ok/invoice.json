@@ -1,0 +1,58 @@
+{
+    "invoice": {
+      "invoiceId": "INV20250120",
+      "date": "2025-01-20",
+      "dueDate": "2025-02-20",
+      "details": {
+        "description1": "Service de consultation technique",
+        "quantity1": 2,
+        "unitPrice1": 150,
+        "currency1": "EUR",
+        "totalPrice1": 300,
+        "description2": "Installation d'équipements",
+        "quantity2": 1,
+        "unitPrice2": 500,
+        "currency2": "EUR",
+        "totalPrice2": 500
+      },
+      "subtotal": 800,
+      "taxRate": 20,
+      "taxAmount": 160,
+      "taxCurrency": "EUR",
+      "discountDescription": "Remise promotionnelle",
+      "discountAmount": 50,
+      "discountCurrency": "EUR",
+      "totalAmount": 910,
+      "totalCurrency": "EUR",
+      "paymentTerms": "Paiement à effectuer dans les 30 jours suivant la date de facturation.",
+      "notes": "Merci de mentionner le numéro de facture lors du règlement.",
+      "status": "En attente",
+      "statuses": {
+        "PENDING": {
+          "label": "En attente",
+          "description": "La facture est en attente de paiement."
+        },
+        "PAID": {
+          "label": "Payée",
+          "description": "La facture a été payée en totalité."
+        },
+        "PARTIALLY_PAID": {
+          "label": "Partiellement payée",
+          "description": "Une partie de la facture a été payée, mais le solde reste dû."
+        },
+        "OVERDUE": {
+          "label": "En retard",
+          "description": "La facture est échue et le paiement est en retard."
+        },
+        "CANCELLED": {
+          "label": "Annulée",
+          "description": "La facture a été annulée."
+        },
+        "REFUNDED": {
+          "label": "Remboursée",
+          "description": "Le montant de la facture a été remboursé au client."
+        }
+      }
+    }
+  }
+  
